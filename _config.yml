@@ -3,3 +3,5 @@ description: The official site of r025
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+style-guide: true
