@@ -3,5 +3,7 @@ description: The official site of r025
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+url: https://r025.github.io
+permalink: :name
 
 style-guide: true
